@@ -2,6 +2,8 @@
 
 Welcome to **CodeQuest**, an interactive game designed to teach you the fundamentals of programming in an engaging and fun way! Whether you're a complete beginner or someone looking to brush up on your programming skills, CodeQuest offers a series of challenges that will help you learn and practice coding concepts.
 
+![git1](https://github.com/user-attachments/assets/8fda1f08-2cf6-4d32-9213-4f042f391b12)
+
 ## About
 
 **CodeQuest** is designed to help users learn the basics of programming through a series of interactive levels. Each level focuses on a specific programming concept, from basic syntax and variables to more advanced topics like loops and functions. Players advance by solving coding challenges and receive instant feedback on their solutions.
@@ -13,6 +15,8 @@ Welcome to **CodeQuest**, an interactive game designed to teach you the fundamen
 - **Real-time Code Execution**: Write and test your code directly in the game.
 - **Helpful Tutorials**: Access visual tutorials and hints to aid your learning.
 - **Achievements and Rewards**: Earn badges and points for completing challenges.
+
+  ![git2](https://github.com/user-attachments/assets/761c02be-c908-4146-ad52-0ecd9615c117)
 
 ## Levels
 
